@@ -1,0 +1,11 @@
+
+
+#first{
+    display: flex;
+    border: solid black 1px;
+    margin: 200px;
+}
+
+#first p{
+    font-size: x-large;
+}
