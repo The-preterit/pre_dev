@@ -1,3 +1,3 @@
 
-let zoneText = document.getElementById("textVariable")
+let zoneText = document.getElementById("textVariable");
 
