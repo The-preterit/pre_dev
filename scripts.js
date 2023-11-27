@@ -25,7 +25,7 @@ function iteration(itr){
             break
             
         case 4:
-            zoneText.innerText = "Git nd Github"
+            zoneText.innerText = "Git and Github"
             break
             
         case 5:

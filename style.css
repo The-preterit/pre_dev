@@ -1,11 +1,38 @@
 
-
-#first{
-    display: flex;
-    border: solid black 1px;
-    margin: 200px;
+body{
+    text-align: center;
+    margin-top: 50px;
 }
 
-#first p{
+h1{
+    font-size: large;
+    font-weight:lighter;
+}
+#first{
+    display:inline-flex;
+    /*border: solid black 1px;*/
+    margin: 20px;
+    padding: 30px 70px;
+}
+
+#presentation{
+    text-align: right;
+    font-weight: bold;
     font-size: x-large;
+    /*display: flex;
+    flex-direction: column;*/
+    padding-top: 70px;
+}
+
+#Imdev{
+    font-size: xxx-large;
+}
+
+#code{
+    background-color: black;
+    color: white;
+    text-align: left;
+    border-radius: 10px;
+    margin-left: 40px;
+    padding: 20px;
 }
