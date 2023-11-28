@@ -14,6 +14,9 @@ h1{
     margin: 20px;
     padding: 30px 70px;
 }
+#first button{
+    text-decoration: none;
+}
 
 #presentation{
     text-align: right;
@@ -22,6 +25,9 @@ h1{
     /*display: flex;
     flex-direction: column;*/
     padding-top: 70px;
+    /*padding-left: 100px;
+    padding-right: 5px;
+    border: solid black 1px;*/
 }
 
 #Imdev{
@@ -29,6 +35,7 @@ h1{
 }
 
 #code{
+    position: fixed;
     background-color: black;
     color: white;
     text-align: left;
