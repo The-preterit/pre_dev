@@ -30,9 +30,9 @@ function iteration(itr){
             
         case 5:
             zoneText.innerText = "Dreaming to be Data scientist"
+            cg = 0
             break
         default:
-            cg = 0
             break
     }
     cg++
